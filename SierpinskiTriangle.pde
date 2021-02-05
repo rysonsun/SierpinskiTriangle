@@ -8,7 +8,7 @@ public void draw()
 {
 sierpinski(0,500,500);
 }
-public void mouseDragged()//optional
+public void mouseDragged()
 {
 
 }
