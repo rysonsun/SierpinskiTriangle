@@ -12,5 +12,5 @@ public void mouseDragged()//optional
 }
 public void sierpinski(int x, int y, int len) 
 {
-
+fill((int)((200)));
 }
